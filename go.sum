@@ -1,0 +1,10 @@
+github.com/emersion/go-ical v0.0.0-20220601085725-0864dccc089f h1:feGUUxxvOtWVOhTko8Cbmp33a+tU0IMZxMEmnkoAISQ=
+github.com/emersion/go-ical v0.0.0-20220601085725-0864dccc089f/go.mod h1:2MKFUgfNMULRxqZkadG1Vh44we3y5gJAtTBlVsx1BKQ=
+github.com/emersion/go-vcard v0.0.0-20230815062825-8fda7d206ec9/go.mod h1:HMJKR5wlh/ziNp+sHEDV2ltblO4JD2+IdDOWtGcQBTM=
+github.com/emersion/go-webdav v0.5.0 h1:Ak/BQLgAihJt/UxJbCsEXDPxS5Uw4nZzgIMOq3rkKjc=
+github.com/emersion/go-webdav v0.5.0/go.mod h1:ycyIzTelG5pHln4t+Y32/zBvmrM7+mV7x+V+Gx4ZQno=
+github.com/sosodev/duration v1.3.1 h1:qtHBDMQ6lvMQsL15g4aopM4HEfOaYuhWBw3NPTtlqq4=
+github.com/sosodev/duration v1.3.1/go.mod h1:RQIBBX0+fMLc/D9+Jb/fwvVmo0eZvDDEERAikUR6SDg=
+github.com/teambition/rrule-go v1.7.2/go.mod h1:mBJ1Ht5uboJ6jexKdNUJg2NcwP8uUMNvStWXlJD3MvU=
+github.com/teambition/rrule-go v1.8.2 h1:lIjpjvWTj9fFUZCmuoVDrKVOtdiyzbzc93qTmRVe/J8=
+github.com/teambition/rrule-go v1.8.2/go.mod h1:Ieq5AbrKGciP1V//Wq8ktsTXwSwJHDD5mD/wLBGl3p4=
